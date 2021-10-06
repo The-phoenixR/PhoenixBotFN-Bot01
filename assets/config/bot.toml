@@ -1,0 +1,9 @@
+[bot]
+
+prefix = "-"
+
+emote_interval = 3
+
+admins = ["59c417e69e6e47bab111e70194a82d2d"]
+
+only_admin = false
